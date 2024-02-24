@@ -1,0 +1,8 @@
+
+
+An Ensemble is a group of musicians, actors, or dancers who perform together, this gives us a better experience.
+similarly, people started using a group of machine learning models to produce better prediction results.
+
+we have categorized this ensemble strategy into 4 groups. 
+Bagging, Boosting, stacking, and Cascading.
+out of these 4, Bagging and Boosting are the most practical and widely used on various regression and classification problems.
